@@ -51,11 +51,11 @@
 
 [facebook]: https://facebook.com/irakli.bochorishvili.18
 [instagram]: https://instagram.com
-[linkedin]: https://linkedin.com/in
+[linkedin]: https://linkedin.com
 [twitter]: https://twitter.com
 
-bochorishvili_irakli
-irakli-bochorishvili
+/in/bochorishvili_irakli
+/irakli-bochorishvili
 
 
 
