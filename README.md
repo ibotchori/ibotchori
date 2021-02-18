@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="IrakliBochorishvili.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] Comment -->
-[<img align="left" alt="IrakliBochorishvili | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384053.svg?token=exp=1613650164~hmac=af9899b7f40bf6f9acc4890bddc7352d" />][facebook]
 <!-- [<img align="left" alt="IrakliBochorishvili | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Comment -->
 [<img align="left" alt="IrakliBochorishvili | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IrakliBochorishvili | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,7 +38,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384053.svg?token=exp=1613650164~hmac=af9899b7f40bf6f9acc4890bddc7352d" />
+
 
 <br />
 <br />
