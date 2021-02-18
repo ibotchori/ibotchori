@@ -54,7 +54,7 @@
 [linkedin]: https://linkedin.com
 [twitter]: https://twitter.com
 
-/in/bochorishvili_irakli
+<!-- /in/bochorishvili_irakli
 /irakli-bochorishvili
 
 
