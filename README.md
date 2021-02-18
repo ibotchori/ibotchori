@@ -18,7 +18,7 @@
 [<img align="left" alt="IrakliBochorishvili | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613650570~hmac=7d9705d2d2d56d3285ccb7e527569747" />][instagram]
 
 <br />
-<br />
+
 
 
 
