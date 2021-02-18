@@ -1,9 +1,6 @@
 ### Hi there, I'm Irakli Bochorishvili 👋
 
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
