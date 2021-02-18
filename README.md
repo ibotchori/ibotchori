@@ -50,8 +50,8 @@
 
 
 [facebook]: https://facebook.com/irakli.bochorishvili.18
-[instagram]: https://instagram.com/ <!-- [bochorishvili_irakli -->
-[linkedin]: https://linkedin.com/in/ <!-- [irakli-bochorishvili -->
+<!-- [instagram]: https://instagram.com/bochorishvili_irakli 
+[linkedin]: https://linkedin.com/in/irakli-bochorishvili
 [twitter]: https://twitter.com/ 
 
 
