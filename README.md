@@ -1,4 +1,6 @@
-### Hi there, I'm Irakli Bochorishvili 👋
+### Hi there 👋
+
+## I'm a beginner Software Engineer
 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
