@@ -2,11 +2,8 @@
 
 ## I'm a beginner Software Engineer
 
-<br />
-
-
  :book:  I’m currently learning everything 🤣
-
+<br />
 
 
 ### Connect with me:
