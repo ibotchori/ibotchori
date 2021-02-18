@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## I'm a beginner Software Engineer
+<br />
+<br />
+
 
  :book:  I’m currently learning everything 🤣
 
