@@ -10,10 +10,10 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="IrakliBochorishvili.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] Comment -->
-[<img align="left" alt="Terminal" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
+<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />[facebook]
 <!-- [<img align="left" alt="IrakliBochorishvili | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Comment -->
-[<img align="left" alt="IrakliBochorishvili | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" alt="IrakliBochorishvili | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram]
 
 <br />
 
