@@ -12,7 +12,7 @@
 <!-- [<img align="left" alt="IrakliBochorishvili.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] Comment -->
 [<img align="left" alt="Terminal" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
 <!-- [<img align="left" alt="IrakliBochorishvili | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Comment -->
-[<img align="left" alt="IrakliBochorishvili | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613650468~hmac=105f536a7ee960c233197dd409a0359d" />][linkedin]
+[<img align="left" alt="IrakliBochorishvili | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="IrakliBochorishvili | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613650570~hmac=7d9705d2d2d56d3285ccb7e527569747" />][instagram]
 
 <br />
