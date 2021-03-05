@@ -35,7 +35,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="SASS" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fan%2F351546%2Fpng%2Ftailwind-css-logo.png&imgrefurl=https%3A%2F%2Ficonape.com%2Ftailwind-css-logo-logo-icon-svg-png.html&tbnid=4G1ydudODtN6hM&vet=12ahUKEwiYtvbq-5nvAhUK4RoKHX0EAFEQMygBegUIARCOAQ..i&docid=j9quJ0prE0952M&w=300&h=180&q=tailwind%20logo%20png&ved=2ahUKEwiYtvbq-5nvAhUK4RoKHX0EAFEQMygBegUIARCOAQ" />
+<img align="left" alt="SASS" width="26px" src="https://iconape.com/tailwind-css-logo-logo-icon-svg-png.html" />
 
 <br />
 <br />
