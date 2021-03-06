@@ -2,7 +2,7 @@
 
 ## I'm a beginner Software Engineer
 
- :book:  I’m currently learning everything 🤣
+ :book:  I’m currently learning everything :)
  
 <br />
 
