@@ -13,7 +13,7 @@
 [<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
 <!-- [<img align="left" alt="IrakliBochorishvili | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Comment -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fka.m.wikipedia.org%2Fwiki%2F%25E1%2583%25A4%25E1%2583%2590%25E1%2583%2598%25E1%2583%259A%25E1%2583%2598%3AInstagram_icon.png&psig=AOvVaw3lKG2Z99Ar3vrNmfl-pn4o&ust=1618673281296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiN7oGKg_ACFQAAAAAdAAAAABAD" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-logo-instagram-ini-ada-varias-dan-transparan-33.png" />][instagram]
 
 <br />
 
