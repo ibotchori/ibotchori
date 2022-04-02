@@ -10,9 +10,9 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="IrakliBochorishvili.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] Comment -->
-[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
+[<img align="left" alt="Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
 <!-- [<img align="left" alt="IrakliBochorishvili | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Comment -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 <!-- [<img align="left" alt="Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-logo-instagram-ini-ada-varias-dan-transparan-33.png" />][instagram] -->
 
 <br />
@@ -44,6 +44,8 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+
+<img align="left" alt="MaterialUI" width="34px" height="26px" src="https://www.pngitem.com/pimgs/m/577-5779757_react-material-ui-logo-hd-png-download.png" />
 -->
 
 
@@ -52,32 +54,29 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-
-
-
-
-
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 
+
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="Tailwid" width="28px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Figma" width="28px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-
-
-
 <img align="left" alt="MaterialUI" width="34px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-<img align="left" alt="MaterialUI" width="34px" height="26px" src="https://www.pngitem.com/pimgs/m/577-5779757_react-material-ui-logo-hd-png-download.png" />
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
 <img align="left" alt="Next" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+
+
+
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+
 <br />
 <br />
 
