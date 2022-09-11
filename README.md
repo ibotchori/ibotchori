@@ -67,9 +67,9 @@
 
 
 
-<img align="left" alt="Tailwid" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="MaterialUI" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
-<img align="left" alt="MaterialUI" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" />
+<img align="left" alt="ChakraUI" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 
@@ -77,6 +77,7 @@
 <img align="left" alt="Next" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+<img align="left" alt="Supabase" width="26px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
 <img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
 
