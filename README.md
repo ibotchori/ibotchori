@@ -75,7 +75,7 @@
 
 <img align="left" alt="Next" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" />
+<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
 <img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
 
 
