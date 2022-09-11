@@ -69,6 +69,7 @@
 
 <img align="left" alt="Tailwid" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="MaterialUI" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
+<img align="left" alt="MaterialUI" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 
