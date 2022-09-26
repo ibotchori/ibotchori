@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-## I'm a beginner Software Engineer
+## I'm a junior Front-End developer
 
  :book:  I’m currently learning everything :)
  
