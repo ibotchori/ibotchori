@@ -104,7 +104,7 @@
 
 
 
-[facebook]: https://facebook.com/irakli.bochorishvili.18
+[facebook]: https://facebook.com/i.botchorishvili
 [instagram]: https://instagram.com
 [linkedin]: https://www.linkedin.com/in/ibotchorishvili
 [twitter]: https://twitter.com
