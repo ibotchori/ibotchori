@@ -4,6 +4,8 @@
 ## I'm a junior Front-End developer
 
 <!--  :book:  I’m currently learning everything :) -->
+
+![](https://komarev.com/ghpvc/?ibotchori)
  
 ### Connect with me:
 
