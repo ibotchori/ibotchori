@@ -5,7 +5,7 @@
 
 <!--  :book:  I’m currently learning everything :) -->
 
-![](https://komarev.com/ghpvc/?ibotchori)
+![](https://komarev.com/ghpvc/?username=ibotchori)
  
 ### Connect with me:
 
