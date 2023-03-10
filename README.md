@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## I'm a junior Front-End developer
+## I'm a Front-End developer
 
 <!--  :book:  I’m currently learning everything :) -->
 
