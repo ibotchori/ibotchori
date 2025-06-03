@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## I'm a Full Stack developer
+<!--  ## I'm a Full Stack developer -->
 
 <!--  :book:  I’m currently learning everything :) -->
 
