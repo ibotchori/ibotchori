@@ -110,7 +110,7 @@
 
 
 [facebook]: https://facebook.com/i.botchorishvili
-[instagram]: https://instagram.com/bochorishvili_irakli
+[instagram]: https://instagram.com/i.botchori
 [linkedin]: https://www.linkedin.com/in/ibotchorishvili
 [twitter]: https://twitter.com
 
